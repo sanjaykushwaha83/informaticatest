@@ -1,7 +1,7 @@
 # Search GitHub projects by language.
 
 ### Steps to run this project
-Checkout this maven project from [github](https://maven.apache.org/guides/index.html)
+Checkout this maven project from github (https://github.com/sanjaykushwaha83/informaticatest.git)
 
 1. Open command prompt and go to project checkout directory 
 2. Clean and build this Maven project using below command
